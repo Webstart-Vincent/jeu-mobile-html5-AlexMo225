@@ -12,7 +12,7 @@ export class Background{
      */
     constructor(ctx){
         this.image = new Image()
-        this.image.src ='./Assets/imag/bg.jpg'
+        this.image.src ='./Assets/img/bd.png'
 
         this.ctx =ctx
     }
